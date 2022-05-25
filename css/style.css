@@ -1,0 +1,35 @@
+header{
+    background-image: url(../img/pattern.png);
+    background-color: #4ea0ff;
+    height: 100px;
+    background-size: 30%;
+}
+
+header .logo{
+    height: 40px;
+    margin-top: 40px;
+
+}
+
+.autore{
+    font-size: 13px;
+    color: #6c6c6c;
+}
+
+.nome-autore{
+    color: #4ea0ff;
+}
+
+.data{
+    font-size: 10px;
+    color: #6c6c6c;
+}
+
+.caption{
+    color: #6c6c6c;
+    font-size: 10px;
+}
+
+.sottolineato{
+    background-color: yellow;
+}
