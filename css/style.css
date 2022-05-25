@@ -11,6 +11,12 @@ header .logo{
 
 }
 
+main ,footer{
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
 .autore{
     font-size: 13px;
     color: #6c6c6c;
@@ -61,3 +67,27 @@ th{
 h4{
     color: #6c6c6c;
 }
+
+h3{
+    color: #fff;
+}
+
+.image{
+    width: 300px;
+    height: 200px;
+    margin-top: 10px;
+}
+
+#foto-monitor{
+    background-image: url(../img/monitor.jpg);
+}
+
+#foto-graph{
+    background-image: url(../img/graph.jpg);
+}
+
+footer{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
