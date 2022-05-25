@@ -33,3 +33,31 @@ header .logo{
 .sottolineato{
     background-color: yellow;
 }
+
+.foto{
+    margin-top: 20px;
+}
+
+table{
+    border-spacing: 0;
+}
+.table50{
+    width: 50%;
+}
+
+th{
+    text-align: left;
+}
+
+.table-header{
+    background-color: #4ea0ff;
+    color: #fff;
+}
+
+.colorate{
+    background-color: lightblue;
+}
+
+h4{
+    color: #6c6c6c;
+}
