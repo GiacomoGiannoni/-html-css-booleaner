@@ -91,3 +91,7 @@ footer{
     margin-right: 5px;
 }
 
+.container{
+    width: 70%;
+    margin: 0 auto;
+}
